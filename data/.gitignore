@@ -1,0 +1,9 @@
+# Raw & intermediate TCGA data — DO NOT commit
+# These files are auto-downloaded by scripts/01_download_and_prepare.R
+*
+!.gitignore
+!README.md
+
+# Allow small processed files to be committed for quick demo
+!counts_matrix_quick.rds
+!col_data_quick.rds

@@ -1,0 +1,39 @@
+# R project files
+.Rproj.user/
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+# renv library (local installs)
+renv/library/
+renv/staging/
+renv/cellar/
+renv/sandbox/
+
+# Large data files (raw TCGA downloads)
+data/raw/
+data/GDCdata/
+data/*.tar.gz
+data/*.htseq.counts
+
+# Keep processed RDS files small enough for demo
+# but ignore very large ones
+data/counts_matrix_full.rds
+data/col_data_full.rds
+
+# Results are generated — optionally track PNGs for README
+# results/
+
+# System files
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Rendered reports
+reports/*.html
+reports/*.pdf
+reports/*_files/
+reports/*_cache/
+*.rds
