@@ -29,7 +29,7 @@
 # Usage:
 #   Rscript scripts/04_visualization.R
 #
-# Author: DTU Bioinformatics MSc | 2026
+# Author: Belkis Chau
 # =============================================================================
 
 # ── 0. Configuration ─────────────────────────────────────────────────────────

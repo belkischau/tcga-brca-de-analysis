@@ -25,7 +25,7 @@
 #   TCGA-BRCA MAF data. If maftools is not installed, it will skip
 #   the mutation analysis gracefully.
 #
-# Author: DTU Bioinformatics MSc | 2026
+# Author: Belkis Chau
 # =============================================================================
 
 # ── 0. Configuration ─────────────────────────────────────────────────────────

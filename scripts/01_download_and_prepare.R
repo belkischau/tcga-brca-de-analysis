@@ -24,7 +24,7 @@
 #   data/col_data_<mode>.rds        — sample metadata (data.frame)
 #   data/se_object_<mode>.rds       — full SummarizedExperiment object
 #
-# Author: DTU Bioinformatics MSc | 2026
+# Author: Belkis Chau
 # =============================================================================
 
 # ── 0. Configuration ─────────────────────────────────────────────────────────

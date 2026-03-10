@@ -24,7 +24,7 @@
 #   Rscript scripts/02_DESeq2_analysis.R
 #   Rscript scripts/02_DESeq2_analysis.R full
 #
-# Author: DTU Bioinformatics MSc | 2026
+# Author: Belkis Chau
 # =============================================================================
 
 # ── 0. Configuration ─────────────────────────────────────────────────────────

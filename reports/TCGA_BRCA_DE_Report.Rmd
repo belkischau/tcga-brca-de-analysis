@@ -1,7 +1,7 @@
 ---
 title: "Breast Cancer Tumor vs Normal Differential Gene Expression Analysis"
 subtitle: "TCGA-BRCA RNA-seq (STAR-Counts) — Full Analysis Report"
-author: "Your Name — DTU Bioinformatics MSc"
+author: "Belkis Chau"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
   html_document:

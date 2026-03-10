@@ -25,7 +25,7 @@
 # Usage:
 #   Rscript scripts/03_pathway_enrichment.R
 #
-# Author: DTU Bioinformatics MSc | 2026
+# Author: Belkis Chau
 # =============================================================================
 
 # ── 0. Configuration ─────────────────────────────────────────────────────────
